@@ -1,13 +1,14 @@
 /*
 // ####################################################################################################################
 -- Add Flashing_LED By Boy Rimjun
+-- On board Arduino UNO R3
 -- form pin = 4
 -- on digitalWrite = 4
 -- LED 5 mm.
 -- R 220 Ohm
--- FlashingOn(); to void loop()
+--  if (Altitude_sonaf < 0.8) FlashingOn(); to void loop()
 -- void Flashing_LEDInt()  to void setup()
--- auto_landing_gear_328p V2  03042015 2139
+-- auto_landing_gear_328p V2.1 By Boy Rimjun 03042015 2139
 -- 31032015 1802
 // ####################################################################################################################  
 */ 
