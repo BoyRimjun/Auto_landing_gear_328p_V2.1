@@ -14,5 +14,8 @@
 // ################################################################################################ 
 */ 
 
+Add Flashing_LED 
+เงื้อนไขการทำงานเวลาลงจอด ถ้า ไม่ได้ขึ้นบิน ไฟ Flashing_LED จะแจ้งเตือนสะถาณะ แต่ถ้าขึ้นบิน ขาสกี จะทำงาน และไฟ Flashing_LED จะ Off โดยอัตโนมัติ .ใช้กับ Board Arduino UNO R3 เท่านั้นR3 เท่านั้น
+
 Faceook: https://www.facebook.com/Boy.RimChan
 Email: baedloso_@hotmail.com
